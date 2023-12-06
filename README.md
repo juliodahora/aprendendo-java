@@ -7,3 +7,4 @@ Outro commit (3) após o "git pull"
 Essa linha está abaixo do PRIMEIRO MERGE
 Essa linha está abaixo da linha que se refere ao PRIMEIRO MERGE
 1
+2
